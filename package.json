@@ -65,7 +65,7 @@
     "file-loader": "^2.0.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^24.1.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "postcss-loader": "^2.0.8",
     "pug-cli": "^1.0.0-alpha6",
     "react-addons-test-utils": "^15.6.2",
